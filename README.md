@@ -12,6 +12,11 @@ An AI-powered assistant built with **FastAPI**, **Streamlit**, and **LangChain**
 - Clean, modern design with Python
 
 
+## 📸 Screenshot
+
+![Screenshot 2025-06-22 012253](https://github.com/user-attachments/assets/24d52dc9-8d48-41c1-af84-0265d4dc6684)
+
+
 ## 🛠️ Tech Stack
 
 - Python
