@@ -14,7 +14,8 @@ An AI-powered assistant built with **FastAPI**, **Streamlit**, and **LangChain**
 
 ## 📸 Screenshot
 
-![Screenshot 2025-06-22 012253](https://github.com/user-attachments/assets/24d52dc9-8d48-41c1-af84-0265d4dc6684)
+![Screenshot 2025-06-22 012253](https://github.com/user-attachments/assets/ed649c25-1869-4c72-a82c-a9152e1bfc4c)
+
 
 
 ## 🛠️ Tech Stack
